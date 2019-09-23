@@ -1,2 +1,2 @@
 # COJ-Accepted
-coj.uci.cu
+http://coj.uci.cu/index.xhtml
